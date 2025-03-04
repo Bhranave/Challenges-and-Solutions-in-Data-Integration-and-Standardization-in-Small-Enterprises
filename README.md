@@ -25,7 +25,7 @@ The primary aim of this study is to provide actionable insights for small busine
   
 ### Notebook Descriptions
 
-* Data Formats.ipynb – This contains inconsistent data from the dataset.
+* Data Formats.ipynb – This contains inconsistent data from the dataset.(https://github.com/Bhranave/Challenges-and-Solutions-in-Data-Integration-and-Standardization-in-Small-Enterprises/blob/239762ae30d02717b83a6e1e7ad99d70fe5af382/Data%20Formats.ipynb)
 * Duplicate Data Across System.ipynb – Identifies duplicate records within the dataset.
 * Integrating Data from Legacy System.ipynb – Converts legacy CSV file format to JSON.
 * Lack of Standard Data Model.ipynb – Analyzes and improves a weak data model by implementing a standardized approach.
