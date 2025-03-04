@@ -19,9 +19,9 @@ The primary aim of this study is to provide actionable insights for small busine
 
 ### Supported File Formats
 
-* Excel '(.xlsx)'
+* Excel '(.xlsx)'```js
 * CSV '(.csv)'
-* JSON '(.json)'
+* JSON '(.json)' ```js
   
 ### Notebook Descriptions
 
