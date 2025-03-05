@@ -25,12 +25,12 @@ The primary aim of this study is to provide actionable insights for small busine
   
 ### Notebook Descriptions
 
-* Data Formats.ipynb – This contains inconsistent data from the dataset.(https://github.com/Bhranave/Challenges-and-Solutions-in-Data-Integration-and-Standardization-in-Small-Enterprises/blob/239762ae30d02717b83a6e1e7ad99d70fe5af382/Data%20Formats.ipynb)
-* Duplicate Data Across System.ipynb – Identifies duplicate records within the dataset.
-* Integrating Data from Legacy System.ipynb – Converts legacy CSV file format to JSON.
-* Lack of Standard Data Model.ipynb – Analyzes and improves a weak data model by implementing a standardized approach.
-* Total_Problem_Result.ipynb – Visualizes incorrect and correct data in the original dataset using bar and pie charts.
-* Final_Total_Solution.ipynb – Presents the final output after data cleaning, duplicate removal, and implementation of standard data model rules, data archiving rules, and validation rules. The results are visualized using bar and pie charts.
+* Data Formats.ipynb – This contains inconsistent data from the dataset. (https://github.com/Bhranave/Challenges-and-Solutions-in-Data-Integration-and-Standardization-in-Small-Enterprises/blob/239762ae30d02717b83a6e1e7ad99d70fe5af382/Data%20Formats.ipynb)
+* Duplicate Data Across System.ipynb – Identifies duplicate records within the dataset. (https://github.com/Bhranave/Challenges-and-Solutions-in-Data-Integration-and-Standardization-in-Small-Enterprises/blob/7c29802751f2b34e3b628a8cbf46c8115a9def96/Duplicate%20Data%20Across%20Systems.ipynb)
+* Integrating Data from Legacy System.ipynb – Converts legacy CSV file format to JSON. (https://github.com/Bhranave/Challenges-and-Solutions-in-Data-Integration-and-Standardization-in-Small-Enterprises/blob/7c29802751f2b34e3b628a8cbf46c8115a9def96/Integrating%20Data%20from%20Legacy%20Systems.ipynb)
+* Lack of Standard Data Model.ipynb – Analyzes and improves a weak data model by implementing a standardized approach. (https://github.com/Bhranave/Challenges-and-Solutions-in-Data-Integration-and-Standardization-in-Small-Enterprises/blob/7c29802751f2b34e3b628a8cbf46c8115a9def96/Lack%20of%20Standard%20Data%20Models.ipynb)
+* Total_Problem_Result.ipynb – Visualizes incorrect and correct data in the original dataset using bar and pie charts. (Total_Problem_Result.ipynb)
+* Final_Total_Solution.ipynb – Presents the final output after data cleaning, duplicate removal, and implementation of standard data model rules, data archiving rules, and validation rules. The results are visualized using bar and pie charts. (https://github.com/Bhranave/Challenges-and-Solutions-in-Data-Integration-and-Standardization-in-Small-Enterprises/blob/7c29802751f2b34e3b628a8cbf46c8115a9def96/Final_Total_Solution.ipynb)
 
 ### Files Description
 
