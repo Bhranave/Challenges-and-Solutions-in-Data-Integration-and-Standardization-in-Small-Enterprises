@@ -13,9 +13,11 @@ The primary aim of this study is to provide actionable insights for small busine
 * dateutil.parser
 * matplotlib
 * NumPy
-* json
+
+ ### Required Python libraries
 * re
 * os
+* json
 
 ### Supported File Formats
 
